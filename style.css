@@ -1,0 +1,125 @@
+#navbarNav{
+    margin-left: 55%;
+}
+.navbar{
+    background-color: #05386B !important;
+}
+.weblogo{
+    width: 100px;
+    height: 100px;
+}
+#navbarNav ul li{
+ font-family: 'Times New Roman', Times, serif;
+ font-size: 25px;
+ font-weight:500px ;
+ padding-left: 20px;
+
+}
+#navbarNav ul a{
+    color: aliceblue !important;
+}
+
+.hdContact{
+   
+    color: black;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600px;
+}
+.contactPage{
+    width: 50%;
+    border: 1px solid #05386B;
+    box-shadow: 5px 10px grey;
+    margin-top: 10%;
+    background-color: #05386B;
+
+}
+.contactBtn{
+ 
+    margin-bottom:15px ;
+    background-color: #05386B;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.footer{
+    margin-top: 40px;
+    
+    background-color: #05386B;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.hdFooter{
+    color: black;
+    font-weight: 600px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+
+.navbar ul li a:hover ,.active{
+    background: linear-gradient( #93b820,#76ad24, #53ad2d, #4fa32c , #408224);
+    border-radius: 50px;
+}
+.footer-ul li a{
+    color: aliceblue;
+}
+
+/* SignUp_Page */
+
+.signUp_page{
+    margin-top: 10%;
+    margin-bottom: 5%;
+    border: 1px solid #05386B;
+    box-shadow:  5px 9px grey;
+    background-color: #05386B;
+   
+}
+.hdSignUp{
+    margin-top: 20px;
+    text-align: center;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 20px;
+    color: aliceblue;
+}
+.signUpBtn{
+    margin-bottom:15px ;
+    background-color: #05386B;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.signUp_page label{
+    color: aliceblue;
+    font-size: 20px;
+}
+
+
+/* SignIn_Page */
+
+.hdSignIn{
+ 
+ color: aliceblue;
+ margin-top: 20px;
+ text-align: center;
+ font-family: monospace;
+ font-weight: bolder;
+ font-size: 20px;
+}
+.SignIn_Page{
+    background-color: #05386B;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    border: 1px solid #05386B;
+    box-shadow:  5px 9px grey;
+    color: aliceblue;
+    width: 50%;
+}
+.SignInBtn{
+    margin-bottom:15px ;
+    background-color: #05386B;
+    width: 50%;
+    margin-left: 25%;
+}
